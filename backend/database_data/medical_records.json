@@ -1,0 +1,42 @@
+[
+  {
+    "patientName": "Aarav Kumar",
+    "doctorName": "Dr. Rajesh Koothrappali",
+    "diagnosis": "Mild Hypertension",
+    "prescription": "Amlodipine 5mg daily",
+    "date": { "$date": "2024-12-10T00:00:00Z" },
+    "notes": "Advised low salt diet."
+  },
+  {
+    "patientName": "Vivaan Shah",
+    "doctorName": "Dr. Priya Sharma",
+    "diagnosis": "Eczema",
+    "prescription": "Hydrocortisone Cream",
+    "date": { "$date": "2024-11-20T00:00:00Z" },
+    "notes": "Apply twice daily."
+  },
+  {
+    "patientName": "Aditya Mittal",
+    "doctorName": "Dr. Amit Patel",
+    "diagnosis": "Migraine",
+    "prescription": "Naproxen 500mg",
+    "date": { "$date": "2024-12-05T00:00:00Z" },
+    "notes": "Avoid triggers like bright lights."
+  },
+  {
+    "patientName": "Vihaan Joshi",
+    "doctorName": "Dr. Anjali Gupta",
+    "diagnosis": "Viral Fever",
+    "prescription": "Paracetamol 500mg",
+    "date": { "$date": "2025-01-02T00:00:00Z" },
+    "notes": "Rest and hydration."
+  },
+  {
+    "patientName": "Arjun Mehta",
+    "doctorName": "Dr. Vikram Singh",
+    "diagnosis": "Osteoarthritis",
+    "prescription": "Calcium & Vitamin D Supplements",
+    "date": { "$date": "2024-10-15T00:00:00Z" },
+    "notes": "Physiotherapy recommended."
+  }
+]

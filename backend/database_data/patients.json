@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Aarav Kumar",
+    "email": "aarav@example.com",
+    "password": "hashed_password_123",
+    "role": "patient",
+    "age": 28,
+    "bloodGroup": "O+",
+    "phone": "+919988776655",
+    "address": "123, MG Road, Bangalore",
+    "createdAt": { "$date": "2024-02-01T10:00:00Z" }
+  },
+  {
+    "name": "Vivaan Shah",
+    "email": "vivaan@example.com",
+    "password": "hashed_password_123",
+    "role": "patient",
+    "age": 35,
+    "bloodGroup": "A+",
+    "phone": "+919988776656",
+    "address": "45, Park Street, Kolkata",
+    "createdAt": { "$date": "2024-02-05T11:30:00Z" }
+  },
+  {
+    "name": "Aditya Mittal",
+    "email": "aditya@example.com",
+    "password": "hashed_password_123",
+    "role": "patient",
+    "age": 42,
+    "bloodGroup": "B+",
+    "phone": "+919988776657",
+    "address": "78, Lajpat Nagar, Delhi",
+    "createdAt": { "$date": "2024-02-10T09:15:00Z" }
+  },
+  {
+    "name": "Vihaan Joshi",
+    "email": "vihaan@example.com",
+    "password": "hashed_password_123",
+    "role": "patient",
+    "age": 25,
+    "bloodGroup": "AB+",
+    "phone": "+919988776658",
+    "address": "12, Jubilee Hills, Hyderabad",
+    "createdAt": { "$date": "2024-02-15T14:20:00Z" }
+  },
+  {
+    "name": "Arjun Mehta",
+    "email": "arjun.m@example.com",
+    "password": "hashed_password_123",
+    "role": "patient",
+    "age": 50,
+    "bloodGroup": "O-",
+    "phone": "+919988776659",
+    "address": "56, Marine Drive, Mumbai",
+    "createdAt": { "$date": "2024-02-20T16:45:00Z" }
+  },
+  {
+    "name": "Saanvi Choudhury",
+    "email": "saanvi@example.com",
+    "password": "hashed_password_123",
+    "role": "patient",
+    "age": 29,
+    "bloodGroup": "A-",
+    "phone": "+919988776660",
+    "address": "89, Salt Lake, Kolkata",
+    "createdAt": { "$date": "2024-02-25T10:30:00Z" }
+  },
+  {
+    "name": "Ananya Iyer",
+    "email": "ananya@example.com",
+    "password": "hashed_password_123",
+    "role": "patient",
+    "age": 31,
+    "bloodGroup": "B-",
+    "phone": "+919988776661",
+    "address": "34, T Nagar, Chennai",
+    "createdAt": { "$date": "2024-03-01T12:00:00Z" }
+  },
+  {
+    "name": "Diya Menon",
+    "email": "diya@example.com",
+    "password": "hashed_password_123",
+    "role": "patient",
+    "age": 27,
+    "bloodGroup": "AB-",
+    "phone": "+919988776662",
+    "address": "67, Koramangala, Bangalore",
+    "createdAt": { "$date": "2024-03-05T15:15:00Z" }
+  },
+  {
+    "name": "Ishaan Chatterjee",
+    "email": "ishaan@example.com",
+    "password": "hashed_password_123",
+    "role": "patient",
+    "age": 45,
+    "bloodGroup": "O+",
+    "phone": "+919988776663",
+    "address": "90, Civil Lines, Jaipur",
+    "createdAt": { "$date": "2024-03-10T09:45:00Z" }
+  },
+  {
+    "name": "Riya Deshmukh",
+    "email": "riya@example.com",
+    "password": "hashed_password_123",
+    "role": "patient",
+    "age": 33,
+    "bloodGroup": "A+",
+    "phone": "+919988776664",
+    "address": "23, Shivaji Nagar, Pune",
+    "createdAt": { "$date": "2024-03-15T13:00:00Z" }
+  }
+]
